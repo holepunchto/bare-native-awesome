@@ -33,9 +33,9 @@ A curated list of resources, libraries, and projects for building native applica
 
 ---
 
-> **Note:** Not official Holepunch apps
-
 ## Demos & Experiments
+
+> **Note:** Not official Holepunch apps
 
 - [holebooks](https://github.com/Drache93/holebooks) `claude` — P2P reading app built with SvelteKit on Bare
 - [ghost-drive](https://github.com/Drache93/ghost-drive) `experimental` `claude` — P2P file drive UI built with SvelteKit on Bare
