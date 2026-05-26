@@ -3,7 +3,6 @@
 A curated list of resources, libraries, and projects for building native applications with [bare-native](https://github.com/holepunchto/bare-native).
 
 > **Note:** Everything (except `bare-native`) listed here so far is experimental and AI-assisted — more is coming. Labels indicate status.
-
 ---
 
 ## Labels
@@ -33,6 +32,8 @@ A curated list of resources, libraries, and projects for building native applica
 - [bare-appletv-remote](https://github.com/Drache93/bare-appletv-remote) `experimental` `claude` — Apple TV remote control bindings for Bare
 
 ---
+
+> **Note:** Not official Holepunch apps
 
 ## Demos & Experiments
 
